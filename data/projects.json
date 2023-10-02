@@ -11,7 +11,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["React", "Next", "Redux"],
-    "project_img": "https://drive.google.com/file/d/19O4few_GXXcn7XS8PJ2Egp-zaeyitHd0/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/19O4few_GXXcn7XS8PJ2Egp-zaeyitHd0/view?usp=drive_link",
+    "title": "Next"
   },
   {
     "id": 2,
@@ -25,7 +26,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["React", "Next", "Redux"],
-    "project_img": "https://drive.google.com/file/d/1MbFJGQ42Rw2DJnyyVc7MfJMMmzf-SBq3/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/1MbFJGQ42Rw2DJnyyVc7MfJMMmzf-SBq3/view?usp=drive_link",
+    "title": "Next"
   },
   {
     "id": 3,
@@ -39,7 +41,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["React", "Next", "Redux"],
-    "project_img": "https://drive.google.com/file/d/1z3cAapwSdm8PQ5PD5NXsiwNy82wSbISr/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/1z3cAapwSdm8PQ5PD5NXsiwNy82wSbISr/view?usp=drive_link",
+    "title": "Next"
   },
   {
     "id": 4,
@@ -53,7 +56,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["React", "TypeScript"],
-    "project_img": "  "
+    "project_img": "  ",
+    "title": "Next"
   },
   {
     "id": 5,
@@ -65,7 +69,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["JavaScript"],
-    "project_img": "https://drive.google.com/file/d/1l59Fzw1GOWS21ngit6c1VQAzUBuAmu0n/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/1l59Fzw1GOWS21ngit6c1VQAzUBuAmu0n/view?usp=drive_link",
+    "title": "JavaScript"
   },
   {
     "id": 5,
@@ -77,7 +82,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["JavaScript"],
-    "project_img": "https://drive.google.com/file/d/1y8ETvxVMcQSAKpdBmQ68REwquvqaYu0Q/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/1y8ETvxVMcQSAKpdBmQ68REwquvqaYu0Q/view?usp=drive_link",
+    "title": "JavaScript"
   },
   {
     "id": 6,
@@ -89,7 +95,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["JavaScript"],
-    "project_img": "https://drive.google.com/file/d/1Zq5adIBr-PJv8rdd6vlo6oUAqU3PrGU_/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/1Zq5adIBr-PJv8rdd6vlo6oUAqU3PrGU_/view?usp=drive_link",
+    "title": "JavaScript"
   },
   {
     "id": 7,
@@ -101,7 +108,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["React"],
-    "project_img": "https://drive.google.com/file/d/1m7jCRV-eDH3CptHfM0QyIuJqcP-bSblH/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/1m7jCRV-eDH3CptHfM0QyIuJqcP-bSblH/view?usp=drive_link",
+    "title": "JavaScript"
   },
   {
     "id": 8,
@@ -113,7 +121,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["JavaScript"],
-    "project_img": "https://drive.google.com/file/d/1gOtDKW7eWGs7idh9LQEADBrJcamOeBWx/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/1gOtDKW7eWGs7idh9LQEADBrJcamOeBWx/view?usp=drive_link",
+    "title": "JavaScript"
   },
   {
     "id": 9,
@@ -125,7 +134,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["JavaScript"],
-    "project_img": "https://drive.google.com/file/d/19O4few_GXXcn7XS8PJ2Egp-zaeyitHd0/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/19O4few_GXXcn7XS8PJ2Egp-zaeyitHd0/view?usp=drive_link",
+    "title": "JavaScript"
   },
   {
     "id": 10,
@@ -137,7 +147,8 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["JavaScript", "Bootstrap"],
-    "project_img": "https://drive.google.com/file/d/1WO23dNNWCZuvb021txQtzGj0En1Fc3T7/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/1WO23dNNWCZuvb021txQtzGj0En1Fc3T7/view?usp=drive_link",
+    "title": "JavaScript"
   },
   {
     "id": 10,
@@ -149,6 +160,7 @@
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "category": ["JavaScript", "Bootstrap"],
-    "project_img": "https://drive.google.com/file/d/1YNPYAzGrQEL3XB59YPm_Vt0_dfZzJFk6/view?usp=drive_link"
+    "project_img": "https://drive.google.com/file/d/1YNPYAzGrQEL3XB59YPm_Vt0_dfZzJFk6/view?usp=drive_link",
+    "title": "JavaScript"
   }
 ]
