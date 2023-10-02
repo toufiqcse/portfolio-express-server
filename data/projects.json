@@ -10,9 +10,9 @@
       "It's Created by Next.js Framework, redux library & Tailwind CSS"
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["React", "Next", "Redux"],
-    "project_img": "https://drive.google.com/file/d/19O4few_GXXcn7XS8PJ2Egp-zaeyitHd0/view?usp=drive_link",
-    "title": "Next"
+    "element": ["React", "Next", "Redux"],
+    "project_img": "https://i.postimg.cc/hGqwQ7bX/todo-projects-img.png",
+    "title": ["Next", "Redux"]
   },
   {
     "id": 2,
@@ -20,14 +20,14 @@
     "githubUrl": "/https://github.com/toufiqcse/flight-booking-app-react-redux",
     "liveLink": "/https://flight-booking-app-react-redux.vercel.app/",
     "features": [
-      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
-      "It's Provide to your daily task",
+      "It’s a fully tab, and desktop responsive website. It has the best UI experience",
+      "It's the Flight Details Search  Design",
       "It's Created by Next.js Framework, redux library & Tailwind CSS"
     ],
-    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["React", "Next", "Redux"],
-    "project_img": "https://drive.google.com/file/d/1MbFJGQ42Rw2DJnyyVc7MfJMMmzf-SBq3/view?usp=drive_link",
-    "title": "Next"
+    "description": "Flight Details Search project is the better service to you and save your time to collect any types of Flight Details in every times",
+    "element": ["React", "Next", "Redux"],
+    "project_img": "https://i.postimg.cc/6qgKkpsC/travel-projects-img.png",
+    "title": ["Next", "Redux"]
   },
   {
     "id": 3,
@@ -36,13 +36,13 @@
     "liveLink": "/https://lws-todo-app.vercel.app/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
-      "It's Provide to your daily task",
+      "It's Provide to your daily task and filtering section",
       "It's Created by Next.js Framework, redux library & Tailwind CSS"
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["React", "Next", "Redux"],
-    "project_img": "https://drive.google.com/file/d/1z3cAapwSdm8PQ5PD5NXsiwNy82wSbISr/view?usp=drive_link",
-    "title": "Next"
+    "element": ["React", "Next", "Redux"],
+    "project_img": "https://i.postimg.cc/P5ZDFLGz/lws-todo.png",
+    "title": ["Next", "Redux"]
   },
   {
     "id": 4,
@@ -51,13 +51,13 @@
     "liveLink": "/#",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
-      "It's Provide to your daily task",
+      "It'your personal portfolio website",
       "It's Created by Next.js Framework, redux library & Tailwind CSS"
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["React", "TypeScript"],
-    "project_img": "  ",
-    "title": "Next"
+    "element": ["React", "Next", "Redux"],
+    "project_img": "https://i.postimg.cc/GpD1DCyp/portfolio-toufiq.png",
+    "title": ["Next", "TypeScript"]
   },
   {
     "id": 5,
@@ -67,10 +67,10 @@
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
-    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["JavaScript"],
+    "description": "It's the Salary Chart For Employee Its Created by the raw JavaScript css3",
+    "element": ["JavaScript", "CSS3"],
     "project_img": "https://i.postimg.cc/Yt7cC50j/salary-sheet-java-Script.png",
-    "title": "JavaScript"
+    "title": ["JavaScript"]
   },
   {
     "id": 5,
@@ -80,10 +80,10 @@
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
-    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["JavaScript"],
-    "project_img": "https://drive.google.com/file/d/1y8ETvxVMcQSAKpdBmQ68REwquvqaYu0Q/view?usp=drive_link",
-    "title": "JavaScript"
+    "description": "It's the Pin Matcher and generator  Its Created by the raw JavaScript css3",
+    "element": ["JavaScript", "css3"],
+    "project_img": "https://i.postimg.cc/tRKhCFHP/pin-matcher-design.png",
+    "title": ["JavaScript"]
   },
   {
     "id": 6,
@@ -93,10 +93,10 @@
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
-    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["JavaScript"],
-    "project_img": "https://drive.google.com/file/d/1Zq5adIBr-PJv8rdd6vlo6oUAqU3PrGU_/view?usp=drive_link",
-    "title": "JavaScript"
+    "description": "It's the Fancy Slider app , slider are created from this selected picture. Its Created by the raw JavaScript css3",
+    "element": ["JavaScript"],
+    "project_img": "https://i.postimg.cc/DfrzLGX1/fancy-slider.png",
+    "title": ["JavaScript"]
   },
   {
     "id": 7,
@@ -107,9 +107,9 @@
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["React"],
-    "project_img": "https://drive.google.com/file/d/1m7jCRV-eDH3CptHfM0QyIuJqcP-bSblH/view?usp=drive_link",
-    "title": "JavaScript"
+    "element": ["React", "Tailwind CSS"],
+    "project_img": "",
+    "title": ["JavaScript"]
   },
   {
     "id": 8,
@@ -119,9 +119,9 @@
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
-    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["JavaScript"],
-    "project_img": "https://drive.google.com/file/d/1gOtDKW7eWGs7idh9LQEADBrJcamOeBWx/view?usp=drive_link",
+    "description": "It's the socialBook Social Application which same goes to Facebook",
+    "element": ["JavaScript"],
+    "project_img": "https://i.postimg.cc/ncxGGqwx/social-Book-design.png",
     "title": "JavaScript"
   },
   {
@@ -132,10 +132,10 @@
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
-    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["JavaScript"],
-    "project_img": "https://drive.google.com/file/d/19O4few_GXXcn7XS8PJ2Egp-zaeyitHd0/view?usp=drive_link",
-    "title": "JavaScript"
+    "description": "It's the myTube application its look like Youtube",
+    "element": ["JavaScript", "css3"],
+    "project_img": "https://i.postimg.cc/jqnR47nM/my-tube-design.png",
+    "title": ["JavaScript"]
   },
   {
     "id": 10,
@@ -145,22 +145,22 @@
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
-    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["JavaScript", "Bootstrap"],
-    "project_img": "https://drive.google.com/file/d/1WO23dNNWCZuvb021txQtzGj0En1Fc3T7/view?usp=drive_link",
-    "title": "JavaScript"
+    "description": "It's the E-comerce web App which including many business features",
+    "element": ["JavaScript", "Bootstrap"],
+    "project_img": "https://i.postimg.cc/Wb46ysjY/akota-traders-bootstrap-design.png",
+    "title": ["JavaScript"]
   },
   {
-    "id": 10,
+    "id": 11,
     "projectTitle": "Flex  Design",
     "githubUrl": "/",
     "liveLink": "/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
-    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
-    "category": ["JavaScript", "Bootstrap"],
-    "project_img": "https://drive.google.com/file/d/1YNPYAzGrQEL3XB59YPm_Vt0_dfZzJFk6/view?usp=drive_link",
-    "title": "JavaScript"
+    "description": "It's the css3 features flex component design",
+    "element": ["JavaScript", "Bootstrap"],
+    "project_img": "https://i.postimg.cc/2y1y49RG/flex-start-bootstrap-design.png",
+    "title": ["JavaScript"]
   }
 ]
