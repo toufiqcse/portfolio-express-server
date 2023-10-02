@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "projectTitle": "ToDo Application",
+    "githubUrl": "/https://github.com/toufiqcse/daily-todo-app-react-redux",
+    "liveLink": "/https://daily-todo-app-react-redux.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "It's Provide to your daily task",
+      "It's Created by Next.js Framework, redux library & Tailwind CSS"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["React", "Next", "Redux"],
+    "project_img": "https://drive.google.com/file/d/19O4few_GXXcn7XS8PJ2Egp-zaeyitHd0/view?usp=drive_link"
+  },
+  {
+    "id": 2,
+    "projectTitle": "Flight Booking",
+    "githubUrl": "/https://github.com/toufiqcse/flight-booking-app-react-redux",
+    "liveLink": "/https://flight-booking-app-react-redux.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "It's Provide to your daily task",
+      "It's Created by Next.js Framework, redux library & Tailwind CSS"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["React", "Next", "Redux"],
+    "project_img": "https://drive.google.com/file/d/1MbFJGQ42Rw2DJnyyVc7MfJMMmzf-SBq3/view?usp=drive_link"
+  },
+  {
+    "id": 3,
+    "projectTitle": "Simple Todo App",
+    "githubUrl": "/https://github.com/toufiqcse/lws-todo-app",
+    "liveLink": "/https://lws-todo-app.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "It's Provide to your daily task",
+      "It's Created by Next.js Framework, redux library & Tailwind CSS"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["React", "Next", "Redux"],
+    "project_img": "https://drive.google.com/file/d/1z3cAapwSdm8PQ5PD5NXsiwNy82wSbISr/view?usp=drive_link"
+  },
+  {
+    "id": 4,
+    "projectTitle": "Portfolio Website",
+    "githubUrl": "/https://github.com/toufiqcse/next-portfolio",
+    "liveLink": "/#",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
+      "It's Provide to your daily task",
+      "It's Created by Next.js Framework, redux library & Tailwind CSS"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["React", "TypeScript"],
+    "project_img": "  "
+  },
+  {
+    "id": 5,
+    "projectTitle": "Salary Sheet",
+    "githubUrl": "/https://github.com/toufiqcse/salary-sheet-javaScript",
+    "liveLink": "/https://salary-sheet-java-script.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["JavaScript"],
+    "project_img": "https://drive.google.com/file/d/1l59Fzw1GOWS21ngit6c1VQAzUBuAmu0n/view?usp=drive_link"
+  },
+  {
+    "id": 5,
+    "projectTitle": "Pin Matcher App",
+    "githubUrl": "/https://github.com/toufiqcse/pin-matcher-javaScript",
+    "liveLink": "/https://pin-matcher-java-script.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["JavaScript"],
+    "project_img": "https://drive.google.com/file/d/1y8ETvxVMcQSAKpdBmQ68REwquvqaYu0Q/view?usp=drive_link"
+  },
+  {
+    "id": 6,
+    "projectTitle": "Create Fancy Slider",
+    "githubUrl": "/https://github.com/toufiqcse/create-slider-javaScript",
+    "liveLink": "/https://create-slider-java-script.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["JavaScript"],
+    "project_img": "https://drive.google.com/file/d/1Zq5adIBr-PJv8rdd6vlo6oUAqU3PrGU_/view?usp=drive_link"
+  },
+  {
+    "id": 7,
+    "projectTitle": "Ema-Jhon Cart",
+    "githubUrl": "/https://github.com/toufiqcse/ema-jhon-cart",
+    "liveLink": "/https://ema-jhon-cart.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["React"],
+    "project_img": "https://drive.google.com/file/d/1m7jCRV-eDH3CptHfM0QyIuJqcP-bSblH/view?usp=drive_link"
+  },
+  {
+    "id": 8,
+    "projectTitle": "SocialBook Design",
+    "githubUrl": "/https://github.com/toufiqcse/social-design-socailBook",
+    "liveLink": "/https://social-design-socail-book.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["JavaScript"],
+    "project_img": "https://drive.google.com/file/d/1gOtDKW7eWGs7idh9LQEADBrJcamOeBWx/view?usp=drive_link"
+  },
+  {
+    "id": 9,
+    "projectTitle": "My Tube",
+    "githubUrl": "/https://github.com/toufiqcse/my-tube-javaScript",
+    "liveLink": "/https://my-tube-java-script.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["JavaScript"],
+    "project_img": "https://drive.google.com/file/d/19O4few_GXXcn7XS8PJ2Egp-zaeyitHd0/view?usp=drive_link"
+  },
+  {
+    "id": 10,
+    "projectTitle": "Eccomerce Design",
+    "githubUrl": "/https://github.com/toufiqcse/akota-eccomerce-javaScript",
+    "liveLink": "/https://akota-eccomerce-java-script.vercel.app/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["JavaScript", "Bootstrap"],
+    "project_img": "https://drive.google.com/file/d/1WO23dNNWCZuvb021txQtzGj0En1Fc3T7/view?usp=drive_link"
+  },
+  {
+    "id": 10,
+    "projectTitle": "Flex  Design",
+    "githubUrl": "/",
+    "liveLink": "/",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
+    ],
+    "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
+    "category": ["JavaScript", "Bootstrap"],
+    "project_img": "https://drive.google.com/file/d/1YNPYAzGrQEL3XB59YPm_Vt0_dfZzJFk6/view?usp=drive_link"
+  }
+]
