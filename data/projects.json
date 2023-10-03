@@ -42,7 +42,7 @@
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "element": ["React", "Next", "Redux"],
     "project_img": "https://i.postimg.cc/P5ZDFLGz/lws-todo.png",
-    "title": ["Next", "Redux"]
+    "title": ["Redux"]
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "element": ["React", "Next", "Redux"],
     "project_img": "https://i.postimg.cc/GpD1DCyp/portfolio-toufiq.png",
-    "title": ["Next", "TypeScript"]
+    "title": ["Next"]
   },
   {
     "id": 5,
@@ -172,7 +172,7 @@
     "description": "It's design with custom code",
     "element": ["HTML", "CSS"],
     "project_img": "https://i.postimg.cc/Hn22NnFL/28656859-64dc058017ce1.jpg",
-    "title": ["Email Template"],
+    "title": ["Email-Template"],
     "template": [
       {
         "id": 1,
