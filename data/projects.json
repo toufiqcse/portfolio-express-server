@@ -96,7 +96,7 @@
     "description": "It's the Fancy Slider app , slider are created from this selected picture. Its Created by the raw JavaScript css3",
     "element": ["JavaScript"],
     "project_img": "https://i.postimg.cc/DfrzLGX1/fancy-slider.png",
-    "title": ["JavaScript"]
+    "title": ["React"]
   },
   {
     "id": 7,
@@ -109,7 +109,7 @@
     "description": "It's the simple daily todo application its Created by the next.js and redux library with styled component in tailwind css",
     "element": ["React", "Tailwind CSS"],
     "project_img": "",
-    "title": ["JavaScript"]
+    "title": ["React"]
   },
   {
     "id": 8,
@@ -161,6 +161,49 @@
     "description": "It's the css3 features flex component design",
     "element": ["JavaScript", "Bootstrap"],
     "project_img": "https://i.postimg.cc/2y1y49RG/flex-start-bootstrap-design.png",
-    "title": ["JavaScript"]
+    "title": ["JavaScript", "Next"]
+  },
+  {
+    "id": 12,
+    "projectTitle": "Email Template",
+    "features": [
+      "It’s a fully mobile, tab, and desktop responsive Email Template as like Klaviyo, Mailchimp and Newsletter Email Template. It has the best UI/UX experience"
+    ],
+    "description": "It's design with custom code",
+    "element": ["HTML", "CSS"],
+    "project_img": "https://i.postimg.cc/Hn22NnFL/28656859-64dc058017ce1.jpg",
+    "title": ["Email Template"],
+    "template": [
+      {
+        "id": 1,
+        "templateName": "Car Shop",
+        "title": "NewsLetter",
+        "img": "https://i.postimg.cc/Kz6T5MfT/email-template-1.png"
+      },
+      {
+        "id": 2,
+        "templateName": "Botique",
+        "title": "Beauty",
+        "img": "https://i.postimg.cc/7ZSqCTGc/email-template-2.png"
+      },
+      {
+        "id": 3,
+        "templateName": "Portfolio",
+        "title": "Portfolio",
+        "img": "https://i.postimg.cc/kgMd5hCV/email-template-3.png"
+      },
+      {
+        "id": 4,
+        "templateName": "Welcome",
+        "title": "Letter",
+        "img": ""
+      },
+      {
+        "id": 4,
+        "templateName": "Thanks",
+        "title": "Letter",
+        "img": ""
+      }
+    ]
   }
 ]
