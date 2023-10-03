@@ -2,8 +2,8 @@
   {
     "id": 1,
     "projectTitle": "ToDo Application",
-    "githubUrl": "/https://github.com/toufiqcse/daily-todo-app-react-redux",
-    "liveLink": "/https://daily-todo-app-react-redux.vercel.app/",
+    "githubUrl": "https://github.com/toufiqcse/daily-todo-app-react-redux",
+    "liveLink": "https://daily-todo-app-react-redux.vercel.app/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
       "It's Provide to your daily task",
@@ -17,8 +17,8 @@
   {
     "id": 2,
     "projectTitle": "Flight Booking",
-    "githubUrl": "/https://github.com/toufiqcse/flight-booking-app-react-redux",
-    "liveLink": "/https://flight-booking-app-react-redux.vercel.app/",
+    "githubUrl": "https://github.com/toufiqcse/flight-booking-app-react-redux",
+    "liveLink": "https://flight-booking-app-react-redux.vercel.app/",
     "features": [
       "It’s a fully tab, and desktop responsive website. It has the best UI experience",
       "It's the Flight Details Search  Design",
@@ -32,8 +32,8 @@
   {
     "id": 3,
     "projectTitle": "Simple Todo App",
-    "githubUrl": "/https://github.com/toufiqcse/lws-todo-app",
-    "liveLink": "/https://lws-todo-app.vercel.app/",
+    "githubUrl": "https://github.com/toufiqcse/lws-todo-app",
+    "liveLink": "https://lws-todo-app.vercel.app/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
       "It's Provide to your daily task and filtering section",
@@ -47,7 +47,7 @@
   {
     "id": 4,
     "projectTitle": "Portfolio Website",
-    "githubUrl": "/https://github.com/toufiqcse/next-portfolio",
+    "githubUrl": "https://github.com/toufiqcse/next-portfolio",
     "liveLink": "/#",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience",
@@ -62,8 +62,8 @@
   {
     "id": 5,
     "projectTitle": "Salary Sheet",
-    "githubUrl": "/https://github.com/toufiqcse/salary-sheet-javaScript",
-    "liveLink": "/https://salary-sheet-java-script.vercel.app/",
+    "githubUrl": "https://github.com/toufiqcse/salary-sheet-javaScript",
+    "liveLink": "https://salary-sheet-java-script.vercel.app/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
@@ -75,8 +75,8 @@
   {
     "id": 5,
     "projectTitle": "Pin Matcher App",
-    "githubUrl": "/https://github.com/toufiqcse/pin-matcher-javaScript",
-    "liveLink": "/https://pin-matcher-java-script.vercel.app/",
+    "githubUrl": "https://github.com/toufiqcse/pin-matcher-javaScript",
+    "liveLink": "https://pin-matcher-java-script.vercel.app/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
@@ -88,8 +88,8 @@
   {
     "id": 6,
     "projectTitle": "Create Fancy Slider",
-    "githubUrl": "/https://github.com/toufiqcse/create-slider-javaScript",
-    "liveLink": "/https://create-slider-java-script.vercel.app/",
+    "githubUrl": "https://github.com/toufiqcse/create-slider-javaScript",
+    "liveLink": "https://create-slider-java-script.vercel.app/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
@@ -101,8 +101,8 @@
   {
     "id": 7,
     "projectTitle": "Ema-Jhon Cart",
-    "githubUrl": "/https://github.com/toufiqcse/ema-jhon-cart",
-    "liveLink": "/https://ema-jhon-cart.vercel.app/",
+    "githubUrl": "https://github.com/toufiqcse/ema-jhon-cart",
+    "liveLink": "https://ema-jhon-cart.vercel.app/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
@@ -114,8 +114,8 @@
   {
     "id": 8,
     "projectTitle": "SocialBook Design",
-    "githubUrl": "/https://github.com/toufiqcse/social-design-socailBook",
-    "liveLink": "/https://social-design-socail-book.vercel.app/",
+    "githubUrl": "https://github.com/toufiqcse/social-design-socailBook",
+    "liveLink": "https://social-design-socail-book.vercel.app/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
@@ -127,8 +127,8 @@
   {
     "id": 9,
     "projectTitle": "My Tube",
-    "githubUrl": "/https://github.com/toufiqcse/my-tube-javaScript",
-    "liveLink": "/https://my-tube-java-script.vercel.app/",
+    "githubUrl": "https://github.com/toufiqcse/my-tube-javaScript",
+    "liveLink": "https://my-tube-java-script.vercel.app/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
@@ -140,8 +140,8 @@
   {
     "id": 10,
     "projectTitle": "Eccomerce Design",
-    "githubUrl": "/https://github.com/toufiqcse/akota-eccomerce-javaScript",
-    "liveLink": "/https://akota-eccomerce-java-script.vercel.app/",
+    "githubUrl": "https://github.com/toufiqcse/akota-eccomerce-javaScript",
+    "liveLink": "https://akota-eccomerce-java-script.vercel.app/",
     "features": [
       "It’s a fully mobile, tab, and desktop responsive website. It has the best UI/UX experience"
     ],
