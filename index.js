@@ -12,6 +12,12 @@ app.get("/projects", (req, res) => {
   res.send(projects);
 });
 
+// GET Req
+const aboutTeamMember = require("./data/aboutTeam.json");
+app.get("/aboutTeam", (req, res) => {
+  res.send(aboutTeamMember);
+});
+
 app.listen(port, () => {
   console.log(`Portfolio server running on port ${port} `);
 });

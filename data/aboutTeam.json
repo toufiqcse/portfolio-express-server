@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "title": "Web Developer",
+    "name": "Toufiqul Isalm",
+    "rating": "5star",
+    "img": "https://i.postimg.cc/cCCdcnvV/my-profile.png",
+    "socialLink": {
+      "facebook": "https://web.facebook.com/toufiqcse7/",
+      "instagram": "https://www.instagram.com/frontend_webdesignmernstack/",
+      "gmail": "toufiqcse7@gmail.com",
+      "twitter": "https://twitter.com/ToufiqulIsalm",
+      "linkdein": "https://www.linkedin.com/in/toufiqul-isalm-b7a298247/",
+      "whatsapp": "+880 1750 119633",
+      "pinterest": ""
+    }
+  },
+  {
+    "id": 2,
+    "title": "Google Analyst & Conversion Expert",
+    "name": "Mehedy Hasan",
+    "rating": "5star",
+    "img": "https://i.postimg.cc/cC3KCvDM/1697275825581.jpg",
+    "socialLink": {
+      "facebook": "https://web.facebook.com/Mehedy.eng",
+      "instagram": "/#",
+      "gmail": "mehedyhasan104084@gmail.com",
+      "twitter": "/#",
+      "linkdein": "",
+      "whatsapp": "+880 1793 987665"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketer",
+    "name": "Md Montaseir Chowdhury",
+    "rating": "5star",
+    "img": "https://i.postimg.cc/TPFxNC9Q/FB-IMG-1697276643785.jpg",
+    "socialLink": {
+      "facebook": "https://web.facebook.com/toufiqcse7/",
+      "instagram": "https://www.instagram.com/frontend_webdesignmernstack/",
+      "gmail": "toufiqcse7@gmail.com",
+      "twitter": "",
+      "linkdein": "https://www.linkedin.com/in/toufiqul-isalm-b7a298247/",
+      "whatsapp": "+880 1750 119633"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Wordpress Developer",
+    "name": "Tanzeir Hasan",
+    "rating": "5star",
+    "img": "",
+    "socialLink": {
+      "facebook": "https://web.facebook.com/toufiqcse7/",
+      "instagram": "https://www.instagram.com/frontend_webdesignmernstack/",
+      "gmail": "toufiqcse7@gmail.com",
+      "twitter": "",
+      "linkdein": "https://www.linkedin.com/in/toufiqul-isalm-b7a298247/",
+      "whatsapp": "+880 1750 119633"
+    }
+  }
+]
