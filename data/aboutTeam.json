@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Web Developer",
-    "name": "Toufiqul Isalm",
+    "name": "Toufiqul-Isalm",
     "rating": "5star",
     "img": "https://i.postimg.cc/cCCdcnvV/my-profile.png",
     "socialLink": {
@@ -13,12 +13,117 @@
       "linkdein": "https://www.linkedin.com/in/toufiqul-isalm-b7a298247/",
       "whatsapp": "+880 1750 119633",
       "pinterest": ""
-    }
+    },
+    "aboutMe": "We are Friends IT Solutions, your go-to source for web excellence. With a mastery of the MERN stack, we craft dynamic web applications that captivate your audience. Our commitment to responsive design ensures a seamless user experience across all devices. From Figma and PSD to HTML, we bring your designs to life with precision and flair. Plus, our e-commerce designs drive conversions, making us your e-commerce partner of choice. Ready to create remarkable web experiences? Lets talk. Your vision, our expertise – a perfect match for success.",
+    "WebDetails": {
+      "skills": [
+        {
+          "id": 1,
+          "name": " HTML",
+          "level": "98%"
+        },
+
+        {
+          "id": 2,
+          "name": " CSS",
+          "level": "95%"
+        },
+        {
+          "id": 4,
+          "name": " JavaScript",
+          "level": "85%"
+        },
+        {
+          "id": 6,
+          "name": " Next",
+          "level": "80%"
+        },
+        {
+          "id": 5,
+          "name": " React",
+          "level": "90%"
+        },
+        {
+          "id": 8,
+          "name": " Redux",
+          "level": "70%"
+        },
+        {
+          "id": 8,
+          "name": " Tailwind",
+          "level": "95%"
+        },
+        {
+          "id": 7,
+          "name": " TypeScript",
+          "level": "40%"
+        },
+        {
+          "id": 9,
+          "name": " Material UI",
+          "level": "80%"
+        },
+        {
+          "id": 9,
+          "name": " Firebase",
+          "level": "70%"
+        }
+      ],
+      "tools": [
+        {
+          "id": 10,
+          "Icon": "BsCircleFill",
+          "name": "Figma",
+          "level": "95%"
+        },
+        {
+          "id": 11,
+          "Icon": "BsCircleFill",
+          "name": "PhotoShop",
+          "level": "90%"
+        },
+        {
+          "id": 12,
+          "Icon": "BsCircleFill",
+          "name": "Adobe XD",
+          "level": "60%"
+        },
+        {
+          "id": 13,
+          "Icon": "BsCircleFill",
+          "name": "PSD",
+          "level": "90%"
+        }
+      ],
+      "headingLeft": "Language & Frameworks",
+      "headingRight": "Tools "
+    },
+    "experience": [
+      {
+        "id": 100,
+        "CourseTitle": "Think In A Redux Way",
+        "platform": "Learn With Sumit",
+        "year": "2023"
+      },
+      {
+        "id": 102,
+        "CourseTitle": "Web Development With MERN Stack",
+        "platform": "Programming Hero",
+        "year": "2023"
+      },
+      {
+        "id": 103,
+        "CourseTitle": "Web Development With PHP",
+        "platform": "Eshikhon.com",
+        "year": "2022"
+      }
+    ]
   },
+
   {
     "id": 2,
     "title": "Web Analyst Expert",
-    "name": "Mehedy Hasan",
+    "name": "Mehedy-Hasan",
     "rating": "5star",
     "img": "https://i.postimg.cc/cC3KCvDM/1697275825581.jpg",
     "socialLink": {
@@ -26,38 +131,356 @@
       "instagram": "/#",
       "gmail": "mehedyhasan104084@gmail.com",
       "twitter": "/#",
-      "linkdein": "",
+      "linkdein": "/#",
       "whatsapp": "+880 1793 987665"
-    }
+    },
+    "aboutMe": "As a seasoned web analyst and conversion tracking expert, I specialize in unraveling the intricacies of online user behavior and optimizing digital advertising campaigns. With a keen eye for data-driven insights, I meticulously analyze website performance metrics and employ cutting-edge tools to ensure that businesses understand their online visitors inside out. My expertise in conversion tracking ensures that marketing efforts are laser-focused, resulting in maximum ROI. I empower businesses to fine-tune their online presence, enhance user experiences, and drive success by delivering actionable strategies that yield tangible results.",
+    "WebDetails": {
+      "skills": [
+        {
+          "id": 1,
+          "name": " Google Analytics 4",
+          "level": "99%"
+        },
+
+        {
+          "id": 2,
+          "name": " Google Tag Manager ",
+          "level": "100%"
+        },
+        {
+          "id": 4,
+          "name": " Facebook Conversion API ",
+          "level": "98%"
+        },
+        {
+          "id": 6,
+          "name": " Data Analysis",
+          "level": "95%"
+        },
+        {
+          "id": 5,
+          "name": " Conversion Rate Optimization (CRO)",
+          "level": "90%"
+        },
+        {
+          "id": 8,
+          "name": " User Behavior Analysis",
+          "level": "98%"
+        },
+        {
+          "id": 8,
+          "name": " Custom Javascript",
+          "level": "90%"
+        }
+      ],
+      "tools": [
+        {
+          "id": 10,
+          "name": "Canva Pro",
+          "level": "95%"
+        },
+        {
+          "id": 11,
+          "name": "PhotoShop",
+          "level": "75%"
+        }
+      ],
+      "headingLeft": "Skills",
+      "headingRight": "Tools "
+    },
+    "experience": [
+      {
+        "id": 100,
+        "CourseTitle": "Web Anlyst & Conversion Tracking",
+        "platform": "Web IT",
+        "year": "2023"
+      },
+      {
+        "id": 103,
+        "CourseTitle": "Web Development With PHP",
+        "platform": "Eshikhon.com",
+        "year": "2022"
+      }
+    ]
   },
   {
     "id": 3,
     "title": "Digital Marketer",
-    "name": "Md Montaseir Chowdhury",
+    "name": "Md-Montaseir-Chowdhury",
     "rating": "5star",
     "img": "https://i.postimg.cc/TPFxNC9Q/FB-IMG-1697276643785.jpg",
     "socialLink": {
-      "facebook": "https://web.facebook.com/toufiqcse7/",
-      "instagram": "https://www.instagram.com/frontend_webdesignmernstack/",
-      "gmail": "toufiqcse7@gmail.com",
-      "twitter": "",
-      "linkdein": "https://www.linkedin.com/in/toufiqul-isalm-b7a298247/",
-      "whatsapp": "+880 1750 119633"
-    }
+      "facebook": "https://www.facebook.com/montaseir06",
+      "instagram": "https://www.instagram.com/montaseir06/",
+      "gmail": "montaseir06@gmail.com",
+      "twitter": "https://www.twitter.com/Montaseir06",
+      "linkdein": "https://www.linkedin.com/in/montaseir06/ ",
+      "whatsapp": "+880 1728-809319"
+    },
+    "aboutMe": "As a seasoned digital marketing expert and social media strategist, I bring a wealth of experience to the table. My focus is on creating dynamic online marketing campaigns that captivate and convert your target audience. From crafting compelling content to managing ad campaigns across various platforms, I'm dedicated to achieving your business objectives. With a deep understanding of social media algorithms and trends, I drive engagement, boost brand visibility, and deliver results that matter. Let's work together to maximize your online presence and propel your brand to new heights",
+    "WebDetails": {
+      "skills": [
+        {
+          "id": 1,
+          "name": " Facebook marketing",
+          "level": "98%"
+        },
+
+        {
+          "id": 2,
+          "name": " Instagram marketing",
+          "level": "97%"
+        },
+        {
+          "id": 4,
+          "name": " Google ads",
+          "level": "90%"
+        },
+        {
+          "id": 6,
+          "name": " YouTube marketing",
+          "level": "98%"
+        },
+        {
+          "id": 5,
+          "name": " Email marketing",
+          "level": "96%"
+        },
+        {
+          "id": 8,
+          "name": " Email Template Design",
+          "level": "97%"
+        },
+        {
+          "id": 8,
+          "name": " Lead Generation",
+          "level": "95%"
+        }
+      ],
+      "tools": [
+        {
+          "id": 10,
+          "name": "Canva Pro",
+          "level": "95%"
+        },
+        {
+          "id": 11,
+          "name": "PhotoShop",
+          "level": "85%"
+        },
+        {
+          "id": 12,
+          "name": "Ms Excell",
+          "level": "60%"
+        }
+      ],
+      "headingLeft": "Skills",
+      "headingRight": "Tools "
+    },
+    "experience": [
+      {
+        "id": 100,
+        "CourseTitle": "Digital Marketing",
+        "platform": "IT Bari",
+        "year": "2022"
+      }
+    ]
   },
   {
     "id": 4,
     "title": "Wordpress Developer",
-    "name": "Tanzeir Hasan",
+    "name": "Tanzeir-Hasan",
     "rating": "5star",
-    "img": "",
+    "img": "https://i.postimg.cc/5jdQbCtB/271021815-2024030467766843-1681218779779585216-n.jpg",
     "socialLink": {
-      "facebook": "https://web.facebook.com/toufiqcse7/",
-      "instagram": "https://www.instagram.com/frontend_webdesignmernstack/",
-      "gmail": "toufiqcse7@gmail.com",
+      "facebook": "https://web.facebook.com/tnzr.hsn",
+      "instagram": "/#",
+      "gmail": "",
       "twitter": "",
-      "linkdein": "https://www.linkedin.com/in/toufiqul-isalm-b7a298247/",
-      "whatsapp": "+880 1750 119633"
-    }
+      "linkdein": "/#",
+      "whatsapp": "+880 "
+    },
+    "aboutMe": "As a seasoned WordPress developer expert, I specialize in creating tailored, high-performance websites that not only look great but also deliver exceptional user experiences. With a deep understanding of WordPress's versatile capabilities, I craft custom themes, plugins, and solutions that meet your unique needs. Whether you're looking to launch a stunning website, optimize your existing one, or troubleshoot technical issues, I'm here to provide top-notch WordPress development services. Let's collaborate to transform your digital vision into a functional and visually appealing reality.",
+    "WebDetails": {
+      "skills": [
+        {
+          "id": 1,
+          "name": " HTML",
+          "level": "98%"
+        },
+
+        {
+          "id": 2,
+          "name": " CSS",
+          "level": "90%"
+        },
+        {
+          "id": 4,
+          "name": " JavaScript",
+          "level": "85%"
+        },
+        {
+          "id": 6,
+          "name": " Wordpress",
+          "level": "95%"
+        },
+        {
+          "id": 7,
+          "name": " PHP",
+          "level": "70%"
+        }
+      ],
+      "tools": [
+        {
+          "id": 10,
+
+          "name": "Elementor",
+          "level": "95%"
+        },
+        {
+          "id": 10,
+
+          "name": "WooCommerce",
+          "level": "90%"
+        },
+        {
+          "id": 10,
+
+          "name": "Figma",
+          "level": "98%"
+        },
+        {
+          "id": 11,
+
+          "name": "PhotoShop",
+          "level": "85%"
+        },
+        {
+          "id": 12,
+
+          "name": "Canva Pro",
+          "level": "90%"
+        },
+        {
+          "id": 13,
+
+          "name": "PSD",
+          "level": "90%"
+        }
+      ],
+      "headingLeft": "Language & Frameworks",
+      "headingRight": "Tools "
+    },
+    "experience": [
+      {
+        "id": 102,
+        "CourseTitle": "Wordpress Development With PHP",
+        "platform": "IT Bari",
+        "year": "2022"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "SEO Expert",
+    "name": "Md-Hafizur-Rahman ",
+    "rating": "5star",
+    "img": "https://i.postimg.cc/3wm8Qcvc/329080269-3315448962042874-3939440890721462224-n.jpg",
+    "socialLink": {
+      "facebook": "https://web.facebook.com/profile.php?id=100023878146541",
+      "instagram": "",
+      "gmail": "hafizurashik1997@gmail.com",
+      "twitter": "",
+      "linkdein": "https://www.linkedin.com/in/low-cost-seo-service-in-uk?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "whatsapp": "+880 1642-628643",
+      "website": "https://optimizeteambd.info"
+    },
+    "aboutMe": "As an SEO expert, I'm dedicated to enhancing your online presence and boosting your website's visibility in search engines. I specialize in optimizing your web content, fine-tuning your website's technical aspects, and implementing effective strategies to rank higher in search results. By leveraging the power of keyword research, content optimization, and backlink building, I help you drive organic traffic, increase your online authority, and achieve sustainable growth. Let's work together to ensure that your digital assets are easily discovered by your target audience, leading to greater success and visibility online.",
+    "WebDetails": {
+      "skills": [
+        {
+          "id": 1,
+          "name": " HTML",
+          "level": "95%"
+        },
+
+        {
+          "id": 2,
+          "name": " CSS",
+          "level": "95%"
+        },
+        {
+          "id": 4,
+          "name": " JavaScript",
+          "level": "85%"
+        },
+        {
+          "id": 6,
+          "name": " Next",
+          "level": "70%"
+        },
+        {
+          "id": 5,
+          "name": " React",
+          "level": "80%"
+        },
+        {
+          "id": 8,
+          "name": " Redux",
+          "level": "50%"
+        },
+        {
+          "id": 8,
+          "name": " Tailwind",
+          "level": "90%"
+        },
+        {
+          "id": 7,
+          "name": " TypeScript",
+          "level": "40%"
+        },
+        {
+          "id": 9,
+          "name": " Material UI",
+          "level": "60%"
+        },
+        {
+          "id": 9,
+          "name": " Firebase",
+          "level": "70%"
+        }
+      ],
+      "tools": [
+        {
+          "id": 10,
+          "Icon": "BsCircleFill",
+          "name": "Figma",
+          "level": "85%"
+        },
+        {
+          "id": 11,
+          "Icon": "BsCircleFill",
+          "name": "PhotoShop",
+          "level": "75%"
+        },
+        {
+          "id": 12,
+          "Icon": "BsCircleFill",
+          "name": "Adobe XD",
+          "level": "60%"
+        }
+      ],
+      "headingLeft": "Skills",
+      "headingRight": "Tools "
+    },
+    "experience": [
+      {
+        "id": 100,
+        "CourseTitle": "SEO Expert",
+        "platform": "IT Bari",
+        "year": "2023"
+      }
+    ]
   }
 ]
